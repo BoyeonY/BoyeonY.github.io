@@ -6,7 +6,7 @@
   + 1. Java Projects
   (to see detail code, please click here)
       + 1) Object Oriented RPG Game
-        add screen shot for first game pages
+        ![firstpage-game](/images/RPGgame.png)
       + This project required to use object-oriented concepts(Abstraction, polymorphism, inheritance, encapsulation)
         choosing charaters
         shop

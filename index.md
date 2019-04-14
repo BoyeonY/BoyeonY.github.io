@@ -9,8 +9,7 @@
 
   
 ### 1) Object Oriented RPG Game
- 
-  (to see detail code, please click here)
+
   + This project required to use object-oriented concepts(Abstraction, polymorphism, inheritance, encapsulation)
   + used skills
     Java, Swing
@@ -33,8 +32,8 @@
 
 
 ### 2) Airline Booker
- (too see detail code, please click here)
- + This project allows me to combine html knowledge 
+
+ + This project allows me to combine java and html knowledge with Swing.
  + used skills
    Java, Swing, html
 ```    
@@ -61,7 +60,7 @@
   ![AirLine](/images/AirLineBooke-6.PNG)
   
 ### 3) World Flag
-  
+  A graphical application made using PyQT5 designer.
  + used skills
    Python, PyQt5
 ```    
@@ -146,6 +145,8 @@
   JavaScript, JSON
  
  following an image shows all combinations.
+ 
+ 
  ![poker](/images/pokercombination.jpg)
  ```
  an image reference :https://www.google.com/search?rlz=1C1CHBF_enCA838CA838&q=poker+combinations&tbm=isch&source=univ&sa=
@@ -160,9 +161,10 @@
 ### 2. Android Projects
  
 ## 1) Mobile Simple Calculator
-      Simple Calculator for Android device.
-      * Used skills
+   This is a simple calculator for Android device.
+   * Used skills
       Java, Android Studio
+      
  ```
       *Functions
       1. Basic operations. ( Addition, Substraction, Division, Multiplication)
@@ -178,11 +180,12 @@
    
    
 ## 2) Quiz builder
-     This application is build for Quiz
+  This is a quiz application for android device.
    * Used skills
       Java, Android Studio
 ```   
    *Functions
+   1. Quiz can be called by .txt file.
    1. user can enter a user name.
    2. user get a message if they got right or wrong.
    3. The score is counted on the right top of the screen.

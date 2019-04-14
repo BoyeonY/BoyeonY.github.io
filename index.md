@@ -126,7 +126,7 @@
     4. create Order History page and data modeling. 
 ```
 
- ## Current finished work examples
+## Current finished work examples
  
  
    ![touchstone](/images/TOUCHSTONE-LOGIN.PNG)
@@ -156,7 +156,7 @@
  ```
 
   
- ## Work examples
+## Work examples
 
   ![poker](/images/pokerscore.PNG)
  

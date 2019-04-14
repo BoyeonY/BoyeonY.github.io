@@ -1,11 +1,17 @@
 # Welcome to my portfolio!!
 
-## Thank you so much for taking your time!
-
 + CONTENTS
 
-  + 1. Java Projects
-  + 2. Android Projects
++ 1. Java Projects
+    1) RPG Game
+    2) Airline booker
+    3) World flags
+    4) Co-op web application
++ 2. JavaScript
+       Poker game
++ 3. Android Projects
+    1) Mobile Calculator
+    2) Quiz Builder
 
   
 ### 1) Object Oriented RPG Game
@@ -14,7 +20,7 @@
   + used skills
     Java, Swing
 ```  
-  *Functions
+  *Features
   1. user can enter their name, keep track their name until the application close.
   2. User can choose the characters
   3. stat roll: User can change the strength 
@@ -37,7 +43,7 @@
  + used skills
    Java, Swing, html
 ```    
-  *Fucntions
+  *Features
   1. user can enter their name,  keep track their name until the application close.
   2. User can choose class types (first class or Economic class)
   3. User can choose seat types (window or Aisle)
@@ -59,26 +65,26 @@
   
   ![AirLine](/images/AirLineBooke-6.PNG)
   
-### 3) World Flag
+### 3) World Flags
   A graphical application made using PyQT5 designer.
  + used skills
    Python, PyQt5
 ```    
-  *Fucntions
+  *Features
   1. User can load the file from a drive
   2. User can choose a country from the list
   3. User can update population.
   4. option for Sq.Mile and Sq.Km
   5. option for Popluation density in per square mile and per square km
 ```
-  ## Work Examples
+## Work Examples
   
   ![worldflags](/images/worldflags12.PNG)
   
   ![worldflags](/images/worldflags1.PNG)
   
   
-### CO-OP (TOUCHSTONE COMPANY) ( MAR,2019 ~ PRESENT)
+### 4) CO-OP (TOUCHSTONE COMPANY) ( MAR,2019 ~ PRESENT)
    + The touchstone project combines the knowledge of database programming, 
    web design and database management to create a specialized system for a company. 
    
@@ -104,7 +110,7 @@
    
  
   ```
-    Completed Functions
+    Completed Features
     
     1. Users : Boss, Admin, Template employees, Installation employees.
        Boss can access every information.
@@ -139,7 +145,7 @@
    
    ![touchstone](/images/TOUCHSTONE-installation.PNG)
    
-   
+### JavaScript   
 ### Poker Game 
  This site randomly give 5 card hands. Based on 10 kinds of combinations, determine the rank of each hand and 
  print a type of combinations on the site.
@@ -160,7 +166,7 @@
 
   ![poker](/images/pokerscore.PNG)
  
-### 2. Android Projects
+## 2. Android Projects
  
 ## 1) Mobile Simple Calculator
    This is a simple calculator for Android device.
@@ -168,7 +174,7 @@
       Java, Android Studio
       
  ```
-      *Functions
+  *Features
       1. Basic operations. ( Addition, Substraction, Division, Multiplication)
       2. Delete(Backspace)
       3. All clear.
@@ -186,7 +192,7 @@
    * Used skills
       Java, Android Studio
 ```   
-   *Functions
+  *Features
    1. Quiz can be called by .txt file.
    1. user can enter a user name.
    2. user get a message if they got right or wrong.
@@ -204,4 +210,4 @@
 
 
  
-  
+## Thank you so much for taking your time!  

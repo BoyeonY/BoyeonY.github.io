@@ -134,7 +134,7 @@
    
 ## 2. JavaScript/Python
 
-### 1) World Flags
+### 1) World Flags (Python)
   A graphical application made using PyQT5 designer.
  + used skills
    Python, PyQt5
@@ -153,7 +153,7 @@
   ![worldflags](/images/worldflags1.PNG)
   
   
-### 2) Poker Game 
+### 2) Poker Game (JavaScript)
  This site randomly give 5 card hands. Based on 10 kinds of combinations, determine the rank of each hand and 
  print a type of combinations on the site.
   * Used skills

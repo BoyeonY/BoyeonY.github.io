@@ -5,11 +5,10 @@
 + CONTENTS
 
   + 1. Java Projects
-  + 2. Android
+  + 2. Android Projects
   + 3. Data Analytics
   
-+ Java 
-  ### 1) Object Oriented RPG Game
+### 1) Object Oriented RPG Game
  
   (to see detail code, please click here)
   + This project required to use object-oriented concepts(Abstraction, polymorphism, inheritance, encapsulation)
@@ -104,9 +103,9 @@
    
    ![overview](/images/TOUCHSTONE-overview4.PNG)
    
-  ## Current finished work examples
+ 
   ```
-    Functions
+    Completed Functions
     
     1. Users : Boss, Admin, Template employees, Installation employees.
        Boss can access every information.
@@ -119,13 +118,15 @@
     5. Customers can access an order page.
     
 ```
-## This month goal.
+## The goal in this month.
 ```
     1. User should be able to search orders by id.
     2. Filtering by process step.
     3. complete customer order form.
     4. create Order History page and data modeling. 
 ```
+
+ ## Current finished work examples
    ![touchstone](/images/TOUCHSTONE-LOGIN.PNG)
    
    ![touchstone](/images/TOUCHSTONE-LOGINerorr.PNG)
@@ -136,6 +137,30 @@
    
    ![touchstone](/images/TOUCHSTONE-installation.PNG)
    
+   
+ ## Poker Game 
+ This site randomly give 5 card hands. Based on 10 kinds of combinations, determine the rank of each hand and print a type of combinations on the site.
+ following an image shows what kinds of combinations are.
+ ![poker](/images/pokercombination.PNG)
+ ```
+ an image reference :https://www.google.com/search?rlz=1C1CHBF_enCA838CA838&q=poker+combinations&tbm=isch&source=univ&sa=X&sqi=2&ved=2ahUKEwi9nOrErM7hAhVCY1AKHQRjBIMQsAR6BAgJEAE&biw=1920&bih=937#imgrc=boUgmAvtTVUJpM:
+ ```
+ * Used skills
+  JavaScript, JSON
+  
+ ## Work examples
+ 
+  ![poker](/images/pokercombination.PNG)
+  ![poker](/images/pokerscore.PNG)
+ 
  + 2. Android Projects
-  + 3. Data Analysing projects
+ 
+ ## 1) Mobile Simple Calculator
+ ## 2) Quiz builder
+ ## 3) Picture selector
+ 
+ + 3. Analysing data.
+ ## 1) World poverty
+ ## 2) NSCC Emergency housing
+ 
   

@@ -1,6 +1,6 @@
 # Welcome to my portfolio!!
 
-## Thank you so much to take your time!
+## Thank you so much for taking your time!
 
 + CONTENTS
 
@@ -127,6 +127,8 @@
 ```
 
  ## Current finished work examples
+ 
+ 
    ![touchstone](/images/TOUCHSTONE-LOGIN.PNG)
    
    ![touchstone](/images/TOUCHSTONE-LOGINerorr.PNG)
@@ -138,7 +140,7 @@
    ![touchstone](/images/TOUCHSTONE-installation.PNG)
    
    
- ## Poker Game 
+### Poker Game 
  This site randomly give 5 card hands. Based on 10 kinds of combinations, determine the rank of each hand and 
  print a type of combinations on the site.
   * Used skills

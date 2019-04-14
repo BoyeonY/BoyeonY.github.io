@@ -172,9 +172,9 @@
       
       
 ## Work Example
-   ![Calc](/images/Calc.png)
-   ![Calc](/images/Calc2.png)
-   ![Calc](/images/Calc3.png)
+   ![Calc](/images/Calc1.png)
+   ![Calc](/images/Calc-2.png)
+   ![Calc](/images/Calc-3.png)
    
    
  ## 2) Quiz builder

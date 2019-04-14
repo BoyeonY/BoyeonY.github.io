@@ -6,7 +6,7 @@
 
   + 1. Java Projects
   + 2. Android Projects
-  + 3. Data Analytics
+
   
 ### 1) Object Oriented RPG Game
  
@@ -160,11 +160,43 @@
  + 2. Android Projects
  
  ## 1) Mobile Simple Calculator
+      Simple Calculator for Android device.
+      * Used skills
+      Java, Android Studio
+ ```
+      *Functions
+      1. Basic operations. ( Addition, Substraction, Division, Multiplication)
+      2. Delete(Backspace)
+      3. All clear.
+ ```     
+      
+      
+## Work Example
+   ![Calc](/images/Calc.PNG)
+   ![Calc](/images/Calc2.PNG)
+   ![Calc](/images/Calc3.PNG)
+   
+   
  ## 2) Quiz builder
- ## 3) Picture selector
- 
- + 3. Analysing data.
- ## 1) World poverty
- ## 2) NSCC Emergency housing
+     This application is build for Quiz
+   * Used skills
+      Java, Android Studio
+```   
+   *Functions
+   1. user can enter a user name.
+   2. user get a message if they got right or wrong.
+   3. The score is counted on the right top of the screen.
+   4. When quiz is done, show the user's name and the score.
+```  
+      
+## Work Examples
+  ![Quiz](/images/quiz.PNG)
+  ![Quiz](/images/quiz2.PNG)
+  ![Quiz](/images/quiz3.PNG)
+  ![Quiz](/images/quiz4.PNG)
+  ![Quiz](/images/quiz5.PNG)
+  ![Quiz](/images/quiz6.PNG)
+
+
  
   

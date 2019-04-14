@@ -2,18 +2,23 @@
 
 + CONTENTS
 
-+ 1. Java Projects
+1. Java Projects
     1) RPG Game
     2) Airline booker
-    3) World flags
-    4) Co-op web application
-+ 2. JavaScript
-       Poker game
-+ 3. Android Projects
+    3) Co-op web application
+    
+
+2. JavaScript/ Python
+      1) World flags (Python)
+      2) Poker game (JavaScript)
+      
+3. Android Projects
     1) Mobile Calculator
     2) Quiz Builder
 
-  
+
+
+## 1. Java Projects
 ### 1) Object Oriented RPG Game
 
   + This project required to use object-oriented concepts(Abstraction, polymorphism, inheritance, encapsulation)
@@ -65,26 +70,8 @@
   
   ![AirLine](/images/AirLineBooke-6.PNG)
   
-### 3) World Flags
-  A graphical application made using PyQT5 designer.
- + used skills
-   Python, PyQt5
-```    
-  *Features
-  1. User can load the file from a drive
-  2. User can choose a country from the list
-  3. User can update population.
-  4. option for Sq.Mile and Sq.Km
-  5. option for Popluation density in per square mile and per square km
-```
-## Work Examples
-  
-  ![worldflags](/images/worldflags12.PNG)
-  
-  ![worldflags](/images/worldflags1.PNG)
-  
-  
-### 4) CO-OP (TOUCHSTONE COMPANY) ( MAR,2019 ~ PRESENT)
+
+### 3) CO-OP (TOUCHSTONE COMPANY) ( MAR,2019 ~ PRESENT)
    + The touchstone project combines the knowledge of database programming, 
    web design and database management to create a specialized system for a company. 
    
@@ -145,8 +132,28 @@
    
    ![touchstone](/images/TOUCHSTONE-installation.PNG)
    
-### JavaScript   
-### Poker Game 
+## 2. JavaScript/Python
+
+### 1) World Flags
+  A graphical application made using PyQT5 designer.
+ + used skills
+   Python, PyQt5
+```    
+  *Features
+  1. User can load the file from a drive
+  2. User can choose a country from the list
+  3. User can update population.
+  4. option for Sq.Mile and Sq.Km
+  5. option for Popluation density in per square mile and per square km
+```
+## Work Examples
+  
+  ![worldflags](/images/worldflags12.PNG)
+  
+  ![worldflags](/images/worldflags1.PNG)
+  
+  
+### 2) Poker Game 
  This site randomly give 5 card hands. Based on 10 kinds of combinations, determine the rank of each hand and 
  print a type of combinations on the site.
   * Used skills
@@ -160,13 +167,11 @@
  an image reference :https://www.google.com/search?rlz=1C1CHBF_enCA838CA838&q=poker+combinations&tbm=isch&source=univ&sa=
  X&sqi=2&ved=2ahUKEwi9nOrErM7hAhVCY1AKHQRjBIMQsAR6BAgJEAE&biw=1920&bih=937#imgrc=boUgmAvtTVUJpM:
  ```
-
-  
 ## Work examples
 
   ![poker](/images/pokerscore.PNG)
  
-## 2. Android Projects
+## 3. Android Projects
  
 ## 1) Mobile Simple Calculator
    This is a simple calculator for Android device.

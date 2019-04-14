@@ -190,12 +190,12 @@
 ```  
       
 ## Work Examples
-  ![Quiz](/images/quiz.png)
-  ![Quiz](/images/quiz2.png)
-  ![Quiz](/images/quiz3.png)
-  ![Quiz](/images/quiz4.png)
-  ![Quiz](/images/quiz5.png)
-  ![Quiz](/images/quiz6.png)
+  ![Quiz](/images/quiz1.png)
+  ![Quiz](/images/quiz-2.png)
+  ![Quiz](/images/quiz-3.png)
+  ![Quiz](/images/quiz-4.png)
+  ![Quiz](/images/quiz-5.png)
+  ![Quiz](/images/quiz-6.png)
 
 
  

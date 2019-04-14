@@ -150,7 +150,7 @@
   
  ## Work examples
  
-  ![poker](/images/pokercombination.PNG)
+  ![poker](/images/pokercombination.jpg)
   ![poker](/images/pokerscore.PNG)
  
  + 2. Android Projects

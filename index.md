@@ -20,7 +20,8 @@
   2. User can choose the characters
   3. stat roll: User can change the strength 
   4. Golds: user can use it at store. user can earn golds when they win the battle.
-  5. Shop: user can buy weapons. at first, user is given 500 golds. user can buy weapons after earning golds in battle.
+  5. Shop: user can buy weapons. at first, user is given 500 golds.
+            user can buy weapons after earning golds in battle.
   6. User keep continued battle with same enemy after buying weapons.
 ```    
 ## Work examples
@@ -139,18 +140,21 @@
    
    
  ## Poker Game 
- This site randomly give 5 card hands. Based on 10 kinds of combinations, determine the rank of each hand and print a type of combinations on the site.
- following an image shows what kinds of combinations are.
- ![poker](/images/pokercombination.PNG)
- ```
- an image reference :https://www.google.com/search?rlz=1C1CHBF_enCA838CA838&q=poker+combinations&tbm=isch&source=univ&sa=X&sqi=2&ved=2ahUKEwi9nOrErM7hAhVCY1AKHQRjBIMQsAR6BAgJEAE&biw=1920&bih=937#imgrc=boUgmAvtTVUJpM:
- ```
- * Used skills
+ This site randomly give 5 card hands. Based on 10 kinds of combinations, determine the rank of each hand and 
+ print a type of combinations on the site.
+  * Used skills
   JavaScript, JSON
+ 
+ following an image shows all combinations.
+ ![poker](/images/pokercombination.jpg)
+ ```
+ an image reference :https://www.google.com/search?rlz=1C1CHBF_enCA838CA838&q=poker+combinations&tbm=isch&source=univ&sa=
+ X&sqi=2&ved=2ahUKEwi9nOrErM7hAhVCY1AKHQRjBIMQsAR6BAgJEAE&biw=1920&bih=937#imgrc=boUgmAvtTVUJpM:
+ ```
+
   
  ## Work examples
- 
-  ![poker](/images/pokercombination.jpg)
+
   ![poker](/images/pokerscore.PNG)
  
  + 2. Android Projects

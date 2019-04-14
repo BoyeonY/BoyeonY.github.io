@@ -90,9 +90,9 @@
       2. Develop a fully functioning database that meets the customer’s needs with the use of IT skills learned within our course. 
       3. Allow the database to be updated in the future according to a change in business needs. 
 
-   + currently working a demo version.
++ currently working on a demo version.
 
-  ## Overview
+## Overview
   
    ![overview](/images/TOUCHSTONE-overview1.PNG)
    

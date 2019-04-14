@@ -172,9 +172,9 @@
       
       
 ## Work Example
-   ![Calc](/images/Calc.PNG)
-   ![Calc](/images/Calc2.PNG)
-   ![Calc](/images/Calc3.PNG)
+   ![Calc](/images/Calc.png)
+   ![Calc](/images/Calc2.png)
+   ![Calc](/images/Calc3.png)
    
    
  ## 2) Quiz builder
@@ -190,12 +190,12 @@
 ```  
       
 ## Work Examples
-  ![Quiz](/images/quiz.PNG)
-  ![Quiz](/images/quiz2.PNG)
-  ![Quiz](/images/quiz3.PNG)
-  ![Quiz](/images/quiz4.PNG)
-  ![Quiz](/images/quiz5.PNG)
-  ![Quiz](/images/quiz6.PNG)
+  ![Quiz](/images/quiz.png)
+  ![Quiz](/images/quiz2.png)
+  ![Quiz](/images/quiz3.png)
+  ![Quiz](/images/quiz4.png)
+  ![Quiz](/images/quiz5.png)
+  ![Quiz](/images/quiz6.png)
 
 
  

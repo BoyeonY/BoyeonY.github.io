@@ -2,19 +2,30 @@
 
 + CONTENTS
 
-1. Java Projects
-    1) RPG Game
-    2) Airline booker
-    3) Co-op web application
-2. JavaScript/ Python
-    1) World flags (Python)
-    2) Poker game (JavaScript)  
-3. Android Projects
-    1) Mobile Calculator
-    2) Quiz Builder
-
-
-
+<ol>
+    <li>
+        <div>Java Projects</div>
+        <ol>
+            <li> RPG Game </li>
+            <li> Airline booker </li>
+            <li> Co-oop web application </li>
+        </ol>
+    </li>  
+    <li>
+        <div>JavaScript/ Python</div>
+        <ol>
+            <li> World flags (Python) </li>
+            <li> Poker game (JavaScript)  </li>
+        </ol>
+    </li>  
+    <li>
+        <div>Android Projects</div>
+        <ol>
+            <li> Mobile Calculator </li>
+            <li> Quiz Builder </li>
+        </ol>
+    </li>  
+</ol>
 ## 1. Java Projects
 ### 1) Object Oriented RPG Game
 

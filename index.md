@@ -6,12 +6,9 @@
     1) RPG Game
     2) Airline booker
     3) Co-op web application
-    
-
 2. JavaScript/ Python
-      1) World flags (Python)
-      2) Poker game (JavaScript)
-      
+    1) World flags (Python)
+    2) Poker game (JavaScript)  
 3. Android Projects
     1) Mobile Calculator
     2) Quiz Builder
@@ -76,7 +73,7 @@
    web design and database management to create a specialized system for a company. 
    
    + used skills
-    JAVA SPRING, MySQL(DATAGRIP), javaScript
+    Java Spring framework (mvc, security), Hibernate, MySQL, JSP, jstl
     
    + Goals  
       1. Plan the database and construct a prototype based off company business needs. 
@@ -154,10 +151,10 @@
   
   
 ### 2) Poker Game (JavaScript)
- This site randomly give 5 card hands. Based on 10 kinds of combinations, determine the rank of each hand and 
- print a type of combinations on the site.
+ Poker combination checker.
+ Determining a poker combination of a random card set fetched from API.
   * Used skills
-  JavaScript, JSON
+  JavaScript, JSON, fetch, promise
  
  following an image shows all combinations.
  

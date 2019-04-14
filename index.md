@@ -79,7 +79,7 @@
   
   
 ### CO-OP (TOUCHSTONE COMPANY) ( MAR,2019 ~ PRESENT)
-   + The touchstone project combines our knowledge of database programming, 
+   + The touchstone project combines the knowledge of database programming, 
    web design and database management to create a specialized system for a company. 
    
    + used skills
@@ -90,7 +90,7 @@
       2. Develop a fully functioning database that meets the customer’s needs with the use of IT skills learned within our course. 
       3. Allow the database to be updated in the future according to a change in business needs. 
 
-+ currently working on a demo version.
++ Currently developing a prototype.
 
 ## Overview
   

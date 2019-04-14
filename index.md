@@ -31,7 +31,8 @@
 ![Game5](/images/RPGgame4.PNG)
 ![Game6](/images/RPGgame5.PNG)
 
- ### 2) Airline Booker
+
+### 2) Airline Booker
  (too see detail code, please click here)
  + This project allows me to combine html knowledge 
  + used skills
@@ -59,10 +60,8 @@
   
   ![AirLine](/images/AirLineBooke-6.PNG)
   
+### 3) World Flag
   
-  ## 3) World Flag
-   (too see detail code, please click here)
- + 
  + used skills
    Python, PyQt5
 ```    
@@ -80,7 +79,7 @@
   ![worldflags](/images/worldflags1.PNG)
   
   
-  ## CO-OP (TOUCHSTONE COMPANY) ( MAR,2019 ~ PRESENT)
+### CO-OP (TOUCHSTONE COMPANY) ( MAR,2019 ~ PRESENT)
    + The touchstone project combines our knowledge of database programming, 
    web design and database management to create a specialized system for a company. 
    
@@ -120,6 +119,7 @@
     
 ```
 ## The goal in this month.
+
 ```
     1. User should be able to search orders by id.
     2. Filtering by process step.
@@ -157,9 +157,9 @@
 
   ![poker](/images/pokerscore.PNG)
  
- + 2. Android Projects
+### 2. Android Projects
  
- ## 1) Mobile Simple Calculator
+## 1) Mobile Simple Calculator
       Simple Calculator for Android device.
       * Used skills
       Java, Android Studio
@@ -177,7 +177,7 @@
    ![Calc](/images/Calc-3.png)
    
    
- ## 2) Quiz builder
+## 2) Quiz builder
      This application is build for Quiz
    * Used skills
       Java, Android Studio
